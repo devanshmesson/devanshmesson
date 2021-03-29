@@ -11,11 +11,11 @@
 
 - I’m currently learning **Django, Data analysis, Data structures and algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devanshmesson/](https://github.com/devanshmesson/)
+- All of my projects are available at [https://github.com/devanshmesson/](https://github.com/devanshmesson/)
 
-- 📫 How to reach me **500067983@stu.upes.ac.in**
+- How to reach me **500067983@stu.upes.ac.in**
 
-- 📄 Know about my experiences [https://github.com/devanshmesson/My-Resume](https://github.com/devanshmesson/My-Resume)
+-  Know about my experiences [https://github.com/devanshmesson/My-Resume](https://github.com/devanshmesson/My-Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
