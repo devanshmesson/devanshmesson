@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devanshmesson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devanshmesson" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devansh-messon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="devansh-messon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/devansh-messon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10156759" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zephxr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zephxr" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/zephxr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="zephxr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zeph0yr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="zeph0yr" height="30" width="40" /></a>
