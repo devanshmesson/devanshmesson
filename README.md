@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- How to reach me **500067983@stu.upes.ac.in**
+- How to reach me **messondevansh@gmail.com**
 
 - Know about my experiences [https://github.com/devanshmesson/My-Resume](https://github.com/devanshmesson/My-Resume)
 
