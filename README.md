@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshmesson&show_icons=true&locale=en&&theme=dark" alt="devanshmesson" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devanshmesson&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" alt="devanshmesson" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devanshmesson&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="devanshmesson" /></p>
