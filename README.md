@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Devansh Messon</h1>
-<h3 align="center">Former intern at Alpha AI Ltd., a competitive programmer and a Final year Btech CSE student at UPES,Dehradun.</h3>
+<h3 align="center">SDE @ Kongsberg Digital and A Competitive programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshmesson&label=Profile%20views&color=0e75b6&style=flat" alt="devanshmesson" /> </p>
 
